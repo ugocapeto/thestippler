@@ -1,0 +1,11 @@
+objects=\
+antialias_image.o\
+mapping_func_kernel.o\
+point_add.o\
+point_container_free.o\
+point_container_new.o\
+point_get.o\
+point_set.o\
+sample.o\
+sample_points_write_to_file.o\
+sample_points_write_to_image.o
